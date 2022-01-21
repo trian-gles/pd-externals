@@ -1,3 +1,6 @@
 pure-data/
 */*.dll
 */bin/
+*/obj/
+*/*.cbp
+*/*.layout
