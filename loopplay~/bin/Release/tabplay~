@@ -1,0 +1,10 @@
+EXPORTS
+    loopplay_tilde_dsp @1
+    loopplay_tilde_free @2
+    loopplay_tilde_list @3
+    loopplay_tilde_new @4
+    loopplay_tilde_perform @5
+    loopplay_tilde_set @6
+    loopplay_tilde_setup @7
+    loopplay_tilde_stop @8
+    loopplay_tilde_tick @9

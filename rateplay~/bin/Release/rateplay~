@@ -1,0 +1,11 @@
+EXPORTS
+    rateplay_ft1 @1
+    rateplay_tilde_dsp @2
+    rateplay_tilde_free @3
+    rateplay_tilde_list @4
+    rateplay_tilde_new @5
+    rateplay_tilde_perform @6
+    rateplay_tilde_set @7
+    rateplay_tilde_setup @8
+    rateplay_tilde_stop @9
+    rateplay_tilde_tick @10
